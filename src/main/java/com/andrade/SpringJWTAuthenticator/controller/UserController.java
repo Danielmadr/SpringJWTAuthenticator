@@ -1,7 +1,5 @@
 package com.andrade.SpringJWTAuthenticator.controller;
 
-
-import com.andrade.SpringJWTAuthenticator.dto.AuthenticationDTO;
 import com.andrade.SpringJWTAuthenticator.dto.UserRequestDTO;
 import com.andrade.SpringJWTAuthenticator.dto.VerifyMessage;
 import com.andrade.SpringJWTAuthenticator.service.UserService;
